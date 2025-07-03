@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="514d5c9a-f593-4f86-b0d9-5da32fd8bc2b" name="Changes" comment="">
+    <list default="true" id="514d5c9a-f593-4f86-b0d9-5da32fd8bc2b" name="Changes" comment="Configuracao para deploy no railway">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "herculesherculano"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/herculesherculano/categorizacaoPythonAPI.git",
+    "accountId": "a12b2f05-25cf-40dd-9916-475dc168663c"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -76,12 +88,25 @@
       <workItem from="1750871822321" duration="597000" />
       <workItem from="1750968641921" duration="599000" />
       <workItem from="1751306821331" duration="2419000" />
-      <workItem from="1751565582163" duration="2088000" />
+      <workItem from="1751565582163" duration="3794000" />
     </task>
+    <task id="LOCAL-00001" summary="Configuracao para deploy no railway">
+      <option name="closed" value="true" />
+      <created>1751568003901</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751568003901</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Configuracao para deploy no railway" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configuracao para deploy no railway" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/categorizadorItens$main.coverage" NAME="main Coverage Results" MODIFIED="1748966860044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
